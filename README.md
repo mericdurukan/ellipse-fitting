@@ -52,12 +52,6 @@ phi: Rotation angle of your ellipse.<br />
 width: Width of your ellipse.<br />
 height: Height of your ellipse.<br />
 
-Create an object for your fit:
-
-```C++
-ellipse_fit my_ellipse;
-
-```
 
 Then, create an object with ellipse_fit:
 
